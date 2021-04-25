@@ -20,7 +20,7 @@ body{
     padding-bottom: 71;
     font-size: 40;
     line-height: 1;
-    background-color: hsla(0, 0%, 21%, 0.3);
+    background-color: hsla(0, 0%, 21%, 0.5);
     color: rgb(148, 143, 134);
 }
 .correo{
@@ -29,7 +29,7 @@ body{
     font-size: 20;
 }
 .cuerpo{
-    background-color: hsla(241, 52%, 44%, 0.3);
+    background-color: hsla(241, 52%, 44%, 0.5);
     margin-right: 450;
     margin-left: 20;
     padding: 10;
